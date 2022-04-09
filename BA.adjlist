@@ -1,53 +1,8 @@
-#C:\Users\Fabri\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\ipykernel_launcher.py -f C:\Users\Fabri\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\Roaming\jupyter\runtime\kernel-339ef502-7fe0-4f55-aa2a-d4759fc161a5.json
-# GMT Fri Apr  8 16:39:46 2022
+#C:\ProgramData\Anaconda3\lib\site-packages\ipykernel_launcher.py -f C:\Users\Elisabetta Ferri\AppData\Roaming\jupyter\runtime\kernel-9d3210af-2b76-4c09-96ea-ffb8b3169c66.json
+# GMT Sat Apr  9 17:46:49 2022
 # 
-0 1 2 3 4 6 8 9 11 13 18 21 23 38
-1 2 3 4 5 7 8 13 19 23 28 33 37 43 46
-2 3 4 5 6 7 15 22 24 25 28 29 31 32 33 34 40 48
-3 4 5 7 8 9 10 17 20 22 29 32 35 36 46 49
-4 5 6 7 8 9 10 11 12 18 19 20 24 25 28 30 35 37 38 40 41 44 45
-5 6 10 12 14 22 23 35 39
-6 9 12 13 15 17 20 25 27 29 33 34 38 40 42 44 45 47
-7 11 14 15 16 17 18 21 31 39 42 45
-8 11 16 23 27 39
-9 10 14 25 26 27 30 37 40
-10 12 14 16 31 33 36
-11 35 43
-12 13 15 16 18 19 32 36 37 39 41 43 44 48
-13 20 43 47
-14 26 30 31
-15 17
-16 21 45
-17 24
-18 19 22
-19 21 29 42
-20 26 27 41
-21 26 30 44 48
-22 24 34 42
-23 28
-24 41
-25
-26 46
-27 38 49
-28 32 36 49
-29 34
-30
-31 47
-32
-33
-34
-35
-36
-37
-38
-39 47
-40
-41
-42
-43 46 48
-44 49
-45
-46
-47
-48
-49
+0 1 2 3
+1 2 3 4
+2 3 4
+3 4
+4
